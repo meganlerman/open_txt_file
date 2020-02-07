@@ -1,0 +1,7 @@
+
+Name1 100 , 99, 80, 90
+Name2 90, 99, 80, 80 
+.
+.
+.
+namex grade1 grade2 grade3 grade4 
